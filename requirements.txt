@@ -1,0 +1,4 @@
+python-dotenv
+rpi.gpio
+pigpio
+paho-mqtt
